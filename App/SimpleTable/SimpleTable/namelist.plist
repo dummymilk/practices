@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teammateArray</key>
+	<array>
+		<string>Milk</string>
+		<string>Keith</string>
+		<string>David</string>
+		<string>Sam</string>
+	</array>
+	<key>iconOfTeammateArray</key>
+	<array>
+		<string>milk.jpg</string>
+		<string>keith.jpg</string>
+		<string>david.jpg</string>
+		<string>sam.jpg</string>
+	</array>
+	<key>teamArray</key>
+	<array>
+		<string>ChuBao</string>
+		<string>ChuBao</string>
+		<string>ChuBao</string>
+		<string>ChuBao</string>
+	</array>
+</dict>
+</plist>
